@@ -10802,6 +10802,19 @@
   "faucets": [],
   "infoURL": "https://www.peaq.network"
 }, {
+  "name": "ClubMOS",
+  "chainId": 2255,
+  "shortName": "CMX",
+  "networkId": 2255,
+  "nativeCurrency": {
+    "name": "ClubMOS",
+    "symbol": "CMX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.mosscan.com"],
+  "faucets": ["https://faucet.clubmos.com"],
+  "infoURL": "https://www.clubmos.com"
+}, {
   "name": "BOMB Chain",
   "chainId": 2300,
   "shortName": "bomb",
